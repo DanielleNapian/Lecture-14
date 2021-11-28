@@ -79,6 +79,8 @@ Random func
 Exercises
 
     #include<iostream>
+    #include <array>
+    #include <algorithm>
     using namespace std;
 
     /*
